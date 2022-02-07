@@ -1,0 +1,81 @@
+*
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#header
+{
+    height: 100px;
+    width: 1520px;
+    background-color: white;
+}
+#logo
+{
+    height: 100px;
+    width: 380px;
+    background-color: white;
+}
+#options{
+    width: 1500px;
+    text-align: center;
+    table-layout: fixed;
+    background-color: white;
+}
+
+#spy
+{
+    height: 600px;
+    width: 360px;
+    float: left;
+    font-size: 25px;
+    padding-left: 300px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+#CIA
+{
+    height: 600px;
+    width: 360px;
+    float: left;
+    font-size: 25px;
+    padding-left: 200px ;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+#monitor
+{
+    height: 600px;
+    width: 360px;
+    float: left;
+    font-size: 20px;
+    padding-left: 300px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+#grey
+{
+    height: 600px;
+    width: 360px;
+    float: left;
+    font-size: 25px;
+    padding-left: 200px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+#search
+{
+    border: black 1px solid;
+    height: 600px;
+    width: 1448px;
+    margin-left: 30px;
+    float: left;
+}
+#report
+{
+    border: black solid 1px;
+    height: 600px;
+    width: 724px;
+}

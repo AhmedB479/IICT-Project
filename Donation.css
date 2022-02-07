@@ -1,0 +1,32 @@
+*
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#header
+{
+    height: 100px;
+    width: 1520px;
+    background-color: white;
+}
+#logo
+{
+    height: 100px;
+    width: 380px;
+    background-color: white;
+}
+#options{
+    width: 1500px;
+    text-align: center;
+    table-layout: fixed;
+    background-color: white;
+}
+#don{
+    padding: 150px;
+}
+#Patreon{
+    text-align: centers;
+}
