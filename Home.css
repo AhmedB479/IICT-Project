@@ -82,7 +82,27 @@
 }
 #footer
 {
-    display: block;
-    height: 500px;
-    width: auto;
+    position: block;
+
+}
+#icon1
+{
+    float: left;
+    padding-left: 590px;
+    padding-right: 45px;
+}
+#icon2
+{
+    float: left;
+    padding-right: 45px;
+}
+#icon3
+{
+    float: left;
+    padding-right: 45px;
+}
+#icon4
+{
+    float: left;
+    padding-right: 45px;
 }
