@@ -5,24 +5,25 @@
     background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: 100%;
 }
 #header
 {
     height: 100px;
     width: 1520px;
-    background-color: white;
+    background-color: black;
 }
 #logo
 {
     height: 100px;
     width: 380px;
-    background-color: white;
+    background-color: black
 }
 #options{
     width: 1500px;
     text-align: center;
     table-layout: fixed;
-    background-color: white;
+    background-color: black
 }
 
 #spy
@@ -78,4 +79,10 @@
     border: black solid 1px;
     height: 600px;
     width: 724px;
+}
+#footer
+{
+    display: block;
+    height: 500px;
+    width: auto;
 }
